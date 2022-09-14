@@ -15,6 +15,7 @@ main{
     align-items: center;
 }
 #box{
+    background: linear-gradient(rgb(159, 159, 228), rgb(241, 122, 122));
     width: 400px;
     height: 400px;
     border: 2px solid white;
